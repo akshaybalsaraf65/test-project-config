@@ -6,6 +6,10 @@ public class data {
 		// TODO Auto-generated method stub
 
 		System.out.println("data");
+		
+		int x = 20;
+		
+		System.out.println(x);
 	}
 
 }
